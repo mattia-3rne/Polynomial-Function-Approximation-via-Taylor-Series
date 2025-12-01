@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-The goal of this project is to demonstrate **Taylor's Theorem** by implementing a symbolic approximation engine from scratch. This implementation proves that complex, non-polynomial functions can be expressed as infinite polynomials.
+The goal of this project is to demonstrate **Taylor's Theorem** by implementing an approximation engine, which proves that complex, non-polynomial functions can be expressed as infinite polynomials.
 
 This project uses Calculus to derive the exact polynomial construction of a function based on its behavior at a single point. It visualizes how adding higher-degree terms converges the approximation to the target function.
 
