@@ -42,7 +42,7 @@ $$
 **Infinite Sum Definition:**
 
 $$
-\sin(x) = \sum_{n=0}^{\infty} \frac{(-1)^n}{(2n+1)!} x^{2n+1}
+\sin(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!} 
 $$
 
 
@@ -58,7 +58,7 @@ $$
 **Infinite Sum Definition:**
 
 $$
-\cos(x) = \sum_{n=0}^{\infty} \frac{(-1)^n}{(2n)!} x^{2n}
+\cos(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} 
 $$
 
 
