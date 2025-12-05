@@ -130,6 +130,6 @@ for some real number $z$ between $x$ and $x_0$. As $N \to \infty$, this error te
 
 ## 📂 Project Structure
 
-* `requirements.txt`: Python package dependencies.
 * `main.ipynb`: The main analysis notebook.
+* `requirements.txt`: Python package dependencies.
 * `README.md`: Project documentation.
