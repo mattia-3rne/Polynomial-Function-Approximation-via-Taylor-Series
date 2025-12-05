@@ -113,7 +113,7 @@ for some real number $z$ between $x$ and $x_0$. As $N \to \infty$, this error te
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/mattia-3rne/Polynomial-Function-Approximation-via-Taylor-Series.git
+    git clone https://github.com/mattia-3rne/polynomial-function-approximation-via-taylor-series.git
     ```
 
 2.  **Install dependencies**:
